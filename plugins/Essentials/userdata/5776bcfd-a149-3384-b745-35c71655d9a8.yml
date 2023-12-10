@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.158.159.180
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1701085539144
+  login: 1701085616121
+money: '0'
+last-account-name: ArifCutia
+lastlocation:
+  world: 580c3db5-14b3-4466-aee5-3372113f04a7
+  world-name: world
+  x: -1062.2929014750528
+  y: -55.0
+  z: -1598.300000011921
+  yaw: 88.57861328125
+  pitch: 39.59999465942383
+logoutlocation:
+  world: 580c3db5-14b3-4466-aee5-3372113f04a7
+  world-name: world
+  x: -952.36214195397
+  y: 71.0
+  z: -1680.5187290452927
+  yaw: -145.65003967285156
+  pitch: 4.350020408630371
